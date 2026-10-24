@@ -1,4 +1,4 @@
-# ⚡ SystemScope — Premium PC Monitoring & Intelligence Suite
+#⚡SystemScope — Premium PC Monitoring & Intelligence Suite
 
 **Monitor your PC. Understand its performance. Take control of your system.**
 
