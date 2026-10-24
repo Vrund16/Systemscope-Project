@@ -1,0 +1,28 @@
+SYSTEMSCOPE FINAL 3.1
+
+Dashboard/UI
+- Interactive dark overview
+- Clickable metric cards and quick launch actions
+- Live health heuristic and refresh button
+- Lightweight CPU/RAM trend canvas
+- Device snapshot
+
+Performance optimizations
+- 3-second overview polling
+- Persistent Matplotlib lines in System Monitor
+- Process inventory updates every 6 seconds; metrics update every 2 seconds
+- Bounded 60-point history buffers
+
+Modules
+- System Monitor
+- FileWizard
+- Storage Intelligence
+- Performance Doctor
+- Resource Reports
+- Startup Analyzer
+- PC Intelligence Center
+
+Safety
+- No automatic file deletion
+- No automatic process termination
+- No automatic startup disabling or registry changes

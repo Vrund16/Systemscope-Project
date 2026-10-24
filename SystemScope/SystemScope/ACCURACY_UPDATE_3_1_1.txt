@@ -1,0 +1,12 @@
+SystemScope 3.1.1 — measurement accuracy update
+
+Changes:
+- CPU utilization now uses a 0.25-second measurement window instead of a possibly stale/first-sample interval=None reading.
+- System Monitor uses the Windows SystemDrive environment variable instead of hard-coding C:.
+- Dashboard and diagnostic pages use explicit current OS memory/disk counters from psutil.
+- Health score remains a transparent heuristic, not a Windows-certified health metric.
+- Values on different pages may differ slightly because each page samples at a different time; compare timestamps and refresh windows.
+
+Validation:
+- Python source compilation passed in the build environment.
+- Windows GUI and live values must be verified on the user's computer against Task Manager at the same time.
