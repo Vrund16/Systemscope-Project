@@ -208,13 +208,3 @@ For bugs, include your operating system, Python version, steps to reproduce the 
 GitHub: [@Vrund16](https://github.com/Vrund16)
 
 Project: [SystemScope](https://github.com/Vrund16/SystemScope)
-
----
-
-## 📜 License
-
-No license has been specified yet. Until a license is added to the repository, reuse and redistribution are subject to applicable copyright law.
-
----
-
-**SystemScope — A clearer view of your PC.**
